@@ -50,7 +50,7 @@ The program should:
 - bruteForcePattern() - detects a possible brute-force pattern
 
 ## What I Learned
-I learned to write pseudocode for maxConsecutiveFailures() method before writing the code in VS Code. 
+I learned to write pseudocode for the maxConsecutiveFailures() method before writing the code in VS Code. I also learned how to format the failure rate to two decimal places using printf.
 
 ## Status
 Completed
